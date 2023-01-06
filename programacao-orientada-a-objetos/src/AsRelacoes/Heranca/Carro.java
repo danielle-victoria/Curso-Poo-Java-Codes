@@ -3,8 +3,8 @@
 /*Crie a classe "Veiculo", "Carro", "Moto" e "Caminhao" - Herança
     - Parte 1*/
 
-package AsRelacoes;
+package AsRelacoes.Heranca;
 
-public class Veiculo{
+public class Carro extends Veiculo{
     
 }

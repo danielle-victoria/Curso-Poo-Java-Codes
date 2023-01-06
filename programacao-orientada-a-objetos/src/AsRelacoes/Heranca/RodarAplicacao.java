@@ -1,4 +1,4 @@
-package AsRelacoes;
+package AsRelacoes.Heranca;
 
 public class RodarAplicacao {
 

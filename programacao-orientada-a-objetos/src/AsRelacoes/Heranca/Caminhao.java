@@ -4,7 +4,7 @@
 /*Crie a classe "Veiculo", "Carro", "Moto" e "Caminhao" - Herança
     - Parte 1*/
 
-package AsRelacoes;
+package AsRelacoes.Heranca;
 
 public class Caminhao extends Veiculo{
     

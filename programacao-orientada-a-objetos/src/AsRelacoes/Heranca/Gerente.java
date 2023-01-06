@@ -5,8 +5,8 @@
   Polimorfismo e Sobrescrita - Parte 1
  */
 
-package AsRelacoes;
+package AsRelacoes.Heranca;
 
-public class Funcionario {
+public class Gerente extends Funcionario {
     
 }
