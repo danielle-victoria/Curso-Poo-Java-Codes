@@ -16,7 +16,10 @@
     classe "Carro". Use os métodos set/get, quando aplicáveis,
     para definir os valores dos atributos e exibir estes valores
     "get". Passe também uma mensagem para o cálculo do total para
-    encher o tanque. - Objeto e Mensagem - Parte 4  */
+    encher o tanque. - Objeto e Mensagem - Parte 4*/
+
+  /*Crie a classe "Veiculo", "Carro", "Moto" e "Caminhao" - Herança
+    - Parte 5*/
 
 package EstruturaBasicaOO;
 
