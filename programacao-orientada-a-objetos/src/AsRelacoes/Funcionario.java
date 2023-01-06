@@ -5,9 +5,6 @@
   Polimorfismo e Sobrescrita - Parte 1
  */
 
-/*Analise do comportamento de Polimorfismo e Sobescrita -
- Polimorfismo e Sobescrita - Parte 2
- */
 package AsRelacoes;
 
 public class Funcionario {
