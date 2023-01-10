@@ -25,7 +25,7 @@ public class Bootcamp {
         return descricao;        
     }
 
-    public void set(String descricao){
+    public void setDescricao(String descricao){
         this.descricao = descricao ;
     }
 
