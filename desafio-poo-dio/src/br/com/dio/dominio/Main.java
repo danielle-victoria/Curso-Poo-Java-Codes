@@ -6,14 +6,17 @@ public class Main{
     public static void main(String[] args) {
         
         Curso curso1 = new Curso();
-        curso1.setTitutlo("Curso Java");
+        curso1.setTitulo("Curso Java");
         curso1.set("Descriçao Curso Java");
         curso1.set(8);
         
         Curso curso2 = new Curso();
-        curso2.setTitutlo("Curso JS");
+        curso2.setTitulo("Curso JS");
         curso2.set("Descriçao Curso JS");
         curso2.set(4);
+
+        Conteudo conteudo1= new Mentoria();
+        Conteudo conteudo2 = new Curso();
         
         
         Mentoria mentoria1 = new Mentoria();
