@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'D:/Códigos do Curso de POO com Java/Curso-Poo-Java-Codes/maven-javadoc-test/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Códigos do Curso de POO com Java/Curso-Poo-Java-Codes/maven-javadoc-test/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'D:/Códigos do Curso de POO com Java/Curso-Poo-Java-Codes/maven-javadoc-test/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+one.digitalinnovation
+'D:/Códigos do Curso de POO com Java/Curso-Poo-Java-Codes/maven-javadoc-test/src/main/java/one/digitalinnovation/App.java'
+'D:/Códigos do Curso de POO com Java/Curso-Poo-Java-Codes/maven-javadoc-test/src/main/java/one/digitalinnovation/StatusUser.java'
+'D:/Códigos do Curso de POO com Java/Curso-Poo-Java-Codes/maven-javadoc-test/src/main/java/one/digitalinnovation/User.java'
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\src\main\java = 1673833774108
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\allclasses-index.html = 1673834658969
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\allclasses.html = 1673834658981
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\allpackages-index.html = 1673834658972
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\constant-values.html = 1673834658876
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\deprecated-list.html = 1673834658977
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\element-list = 1673834658842
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\help-doc.html = 1673834658990
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\index-all.html = 1673834658962
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\index.html = 1673834658984
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\member-search-index.js = 1673834658959
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\member-search-index.zip = 1673834658960
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\overview-tree.html = 1673834658927
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\package-search-index.js = 1673834658942
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\package-search-index.zip = 1673834658956
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\script.js = 1673834658999
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\search.js = 1673834659003
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\stylesheet.css = 1673834658996
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\type-search-index.js = 1673834658957
+D:\Códigos do Curso de POO com Java\Curso-Poo-Java-Codes\maven-javadoc-test\target\site\apidocs\type-search-index.zip = 1673834658958
