@@ -27,7 +27,7 @@ A saída deve ser se o jogador ganhou, empatou ou perdeu após a análise das du
 | 2 |
 | 3 | "Ganhou"  |
 | 2 |
-|    
+   
 
 <br/>
 <h3><b>Desafio de Código 2 - Número Feliz ✔️ </b></h3> 
@@ -54,7 +54,7 @@ Retorne true, caso o número seja feliz, e retorne false, caso o número não se
 |-- |-- |  
 | 19 | true |
 | 2 | false |
-|        
+        
 
 
 <br/>
@@ -82,7 +82,7 @@ para ter o número necessário de fatias.
 | 1 | 2 |
 | 1 |
 | 5 |  
-|      
+     
 
 
 
@@ -108,7 +108,7 @@ A saída deverá retornar o valor final da diferença entre o produto e a soma d
 | Entrada | Saída |
 |-- |-- |  
 | 243 | 15 | 
-|      
+     
 
 
 <br/>
@@ -168,5 +168,5 @@ A saída deve ser verificado se o jogador sobreviveu ao ataque ou não. Caso ele
 | 8 |
 | 14|
 | 7 |
-|
+
 
