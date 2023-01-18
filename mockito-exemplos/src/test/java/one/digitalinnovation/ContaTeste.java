@@ -2,10 +2,14 @@ package one.digitalinnovation;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.ArgumentMatcher;
+import org.mockito.ArgumentMatchers;
 import org.mockito.InOrder;
 import org.mockito.Mockito;
 import org.mockito.Spy;
 import org.mockito.junit.jupiter.MockitoExtension;
+
+import net.bytebuddy.asm.Advice.Argument;
 
 @ExtendWith(MockitoExtension.class)
 public class ContaTeste {
@@ -43,6 +47,12 @@ public class ContaTeste {
         conta.validaSaldo(100);
 
         Mockito.verify(conta, Mockito.times(3)).validaSaldo(100);
+    }
+
+    @Test
+    void retornaTrueParaQualquerValorNaValidacaoDeSaldo(){
+        Mockito.doNothing().when(conta).validaSaldo(ArgumentMatchers.anyInt());
+        conta.validaSaldo(3500);
     }
     
 }
