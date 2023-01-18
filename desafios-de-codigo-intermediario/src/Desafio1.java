@@ -1,9 +1,9 @@
 /*Você e seus amigos estão em uma aula de criação de
  jogos. Para inspirar os alunos e treinar, o professor
-  pediu para que vocês fizessem um jogo que já existe 
-  com alguma modificação. A escolha de vocês foi "Pedra,
-   Papel e Tesoura" e a modificação foi mudar Pedra para
-    Flecha, Papel para Escudo e Tesoura para Espada.
+ pediu para que vocês fizessem um jogo que já existe 
+ com alguma modificação. A escolha de vocês foi "Pedra,
+ Papel e Tesoura" e a modificação foi mudar Pedra para
+ Flecha, Papel para Escudo e Tesoura para Espada.
 
 Então, vocês escolheram um número para representar cada um dos parâmetros. Sendo:
 
