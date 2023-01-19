@@ -1,18 +1,45 @@
-## Getting Started
+## Curso 1 - Programação Orientada a Objetos     
+<br/>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Introdução    
+  - Apresentação inicial
+  - Objetivos do curso           
+- Por que usar ?  
+  - Por que usar ?
+- Fundamentos 
+  - Fundamentos  
+  - Exercício  
+- Estrutura básica da OO  
+  - Classe - Conceitos
+  - Classe - Exercício  
+  - Atributo - Conceitos  
+  - Atributo - Exercício  
+  - Método - Conceito  
+  - Método - Exercício  
+  - Objeto e Mensagem - Conceito  
+  - Objeto e Mensagem - Exercício  
+- As relações: Herança, Associação e Interface  
+  - Herança - Conceito  
+  - Herança - Exercício 1  
+  - Herança - Tipos  
+  - Herança - Upcast e Downcast
+  - Herança - Polimorfismo e Sobrescrita  
+  - Herança - Proposta de Exercício 2  
+  - Herança - Resolução do exercício 2 - Parte 1  
+  - Herança - Resolução do exercício 2 - Parte 2
+  - Associação - Conceito 
+  - Associação - Tipos  
+  - Associação - Exercício 
+  - Interface - Conceito 
+  - Interface - Exercício<  
+- A Organização de Pacotes e Visibilidades  
+  - Pacotes - Conceitos 
+  - Pacotes - Exercício  
+  - Visibilidades - Conceitos
+  - Visibilidades - Exercício
+  - Conclusão   
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<br/>
+  
+  <h3>GFT Quality Assurance Para Mulheres 👩 </h3>  
+  <h3>Digital Innovation One ▶️ </h3>
