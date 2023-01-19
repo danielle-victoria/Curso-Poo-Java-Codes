@@ -43,3 +43,7 @@
   
   <h3>GFT Quality Assurance Para Mulheres 👩 </h3>  
   <h3>Digital Innovation One ▶️ </h3>
+
+  <br/>
+
+  [Links Úteis Sobre o Curso 1 de POO Java da DIO](https://github.com/danielle-victoria/Curso-Poo-Java/tree/main/Curso%201%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos)
