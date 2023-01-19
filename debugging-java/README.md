@@ -1,18 +1,17 @@
-## Getting Started
+## Curso 4 - Debugging Java 💻 
+<br/>  
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Apresentação e Visão Geral 
 
-## Folder Structure
+- Pilha de Execução de um Programa Java 
+ Programa Java 
+- Debugging na IDE Intellij
+- Debugging na IDE Eclipse  
+<br/>
+  
+<h3>GFT Quality Assurance Para Mulheres 👩 </h3>  
+<h3>Digital Innovation One ▶️ </h3>
 
-The workspace contains two folders by default, where:
+  <br/>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  [Links Úteis Sobre o Curso 4 de POO Java da DIO](https://github.com/danielle-victoria/Curso-Poo-Java/tree/main/Curso%204%20%E2%80%93%20Debugging%20Java)  
