@@ -22,6 +22,12 @@
   - Conhecendo os métodos Map - parte 2 
   - Ordenação - Map 
   - Exercícios propostos - Map
+- Stream
+  - Visão geral: Stream API - parte 1
+  - Visão geral: Stream API - parte 2
+  - Principais operações Stream API - parte 1
+  - Principais operações Stream API - parte 2
+  - Principais operações Stream API - parte 3
 
 <br/>
   
