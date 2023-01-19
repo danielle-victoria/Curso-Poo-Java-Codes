@@ -1,4 +1,4 @@
-## Curso 1 - Programação Orientada a Objetos     
+## Curso 1 - Programação Orientada a Objetos  💻    
 <br/>
 
 - Introdução    
